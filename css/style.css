@@ -10,3 +10,17 @@ logo.svg{
     height: 300px;
     width: 200px;
 }
+
+.cont1{
+    height: 400px;
+    width: 300px;
+    background-image: url(../img/monitor.jpg);
+
+}
+
+.cont2{
+    height: 400px;
+    width: 300px;
+    background-image: url(../img/graph.jpg);
+
+}
