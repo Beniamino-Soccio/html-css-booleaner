@@ -66,7 +66,15 @@ span{
     color: gray;
 }
 
-.list{
-    margin: 0;
+th{
+    background-color: #086ef3a9 ;
+}
+
+.tbl{
+    background-color: #08c4f3;
+}
+
+.pphoto{
+    font-size: 12px;
 }
 
