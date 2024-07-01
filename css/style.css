@@ -4,7 +4,7 @@
 }
 .high{
     background-image: url(../img/pattern.png);
-    background-color: blue;
+    background-color: #08a9f3;
 }
 logo.svg{
     height: 300px;
@@ -37,4 +37,8 @@ logo.svg{
 .pf{
     color: gray;
     font-size: 26px;
+}
+
+mark{
+    background-color: #fbff00;
 }
