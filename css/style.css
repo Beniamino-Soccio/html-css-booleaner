@@ -1,7 +1,9 @@
+/* container*/
 .container {
     max-width: 1200px;
     margin: 0 auto;
 }
+/* intestazione*/
 .cont{
     background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
@@ -18,7 +20,7 @@
     background-repeat: no-repeat;
     background-position: 50%;
 }
-
+/* footer*/
 .cont1{
     height: 200px;
     width: 300px;
@@ -46,18 +48,19 @@
     color: gray;
     font-size: 26px;
 }
-
+/* parte evidenziata*/
 .marked{
     background-color: #fbff00;
 }
-
+/* dimensione titolo*/
 .titleh{
     font-size: 43px;
 }
-
+/* colore e dimensione testo sotto intestazione*/
 span{
     color: #08a9f3;
 }
+
 .pname{
     font-size: 26px;
 }
@@ -65,7 +68,7 @@ span{
 .ucont1{
     color: gray;
 }
-
+/* colori tabella*/
 th{
     background-color: #086ef3a9 ;
 }
@@ -73,7 +76,7 @@ th{
 .tbl{
     background-color: #08c4f3;
 }
-
+/* dimensione testo sotto le prime 2 foto*/
 .pphoto{
     font-size: 12px;
 }
