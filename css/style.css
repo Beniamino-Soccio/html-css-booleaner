@@ -2,13 +2,21 @@
     max-width: 1200px;
     margin: 0 auto;
 }
-.high{
+.cont{
     background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-size: 400px;
     background-color: #08a9f3;
+    height: 125px;
+
 }
-logo.svg{
-    height: 300px;
+
+.ucont{
+    height: 130px;
     width: 200px;
+    background-image: url(../img/logo.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
 }
 
 .cont1{
@@ -16,7 +24,7 @@ logo.svg{
     width: 300px;
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
-
+    padding: 0 10px;
 }
 
 .cont2{
@@ -24,7 +32,7 @@ logo.svg{
     width: 300px;
     background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
-
+    padding: 0 10px;
 }
 
 .tf{
@@ -39,6 +47,26 @@ logo.svg{
     font-size: 26px;
 }
 
-mark{
+.marked{
     background-color: #fbff00;
 }
+
+.titleh{
+    font-size: 43px;
+}
+
+span{
+    color: #08a9f3;
+}
+.pname{
+    font-size: 26px;
+}
+
+.ucont1{
+    color: gray;
+}
+
+.list{
+    margin: 0;
+}
+
