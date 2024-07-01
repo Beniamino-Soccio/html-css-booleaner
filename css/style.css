@@ -12,15 +12,28 @@ logo.svg{
 }
 
 .cont1{
-    height: 400px;
+    height: 200px;
     width: 300px;
     background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
 
 }
 
 .cont2{
-    height: 400px;
+    height: 200px;
     width: 300px;
     background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
 
+}
+
+.tf{
+    color: white;
+    text-align: left;
+    font-size: 26px;
+
+}
+
+.pf{
+    font-size: 26px;
 }
